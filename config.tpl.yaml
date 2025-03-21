@@ -1,0 +1,16 @@
+database:
+  username:
+  password:
+  host:
+  port:
+  database:
+oauth:
+  github: "access_key_id: \naccess_key_secret: "
+platform:
+  port:
+  base_url:
+admin:
+  username:
+  email:
+  level:
+  token:
